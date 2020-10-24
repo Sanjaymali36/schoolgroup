@@ -68,9 +68,9 @@ section { padding:30px 0;  }
 .dropdown-menu a { display: block; width: 100%; padding: .25rem 1.5rem; clear: both; font-weight: 400; color: #212529; text-align: inherit; white-space: nowrap; background-color: transparent; border: 0; }
 .dropdown-menu :hover, .dropdown-menu a.active { background:#880569; color:#fff;  }
 
-.navbar-nav>li>a.online_add { background:#880569; color:#fff !important; border-radius:6px; }
+.navbar-nav>li>a.online_add { background:#FFA500; color:#fff !important; border-radius:6px; }
 .navbar-nav>li>a.online_add:hover,
-.navbar-nav>li>a.online_add:focus { background:#b60c8e; color:#fff !important; }
+.navbar-nav>li>a.online_add:focus { background:#FFA500; color:#fff !important; }
 
 .navbar-nav>li>a.online_add:hover:before,
 .navbar-nav>li>a.online_add.active:before { display:none; }
